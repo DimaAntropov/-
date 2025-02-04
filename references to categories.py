@@ -4,7 +4,7 @@ from aiogram.utils import executor
 from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 # Вставьте сюда ваш токен
-API_TOKEN = '7540008294:AAFCR77AHQDAwFwFM2VoV8vWU_HI8R9RBtQ'
+API_TOKEN = 'API_TOKEN'
 
 # Инициализация бота и диспетчера
 bot = Bot(token=API_TOKEN)
