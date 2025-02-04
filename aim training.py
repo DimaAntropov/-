@@ -1,7 +1,7 @@
 from aiogram import Bot, Dispatcher, executor, types
 
 # Создайте экземпляр бота и диспетчера
-API_TOKEN = "7540008294:AAFCR77AHQDAwFwFM2VoV8vWU_HI8R9RBtQ"  # Замените на ваш токен
+API_TOKEN = "API_TOKEN"  # Замените на ваш токен
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
 
