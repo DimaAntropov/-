@@ -2,7 +2,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.contrib.middlewares.logging import LoggingMiddleware
 from aiogram.utils import executor
 
-API_TOKEN = '7540008294:AAFCR77AHQDAwFwFM2VoV8vWU_HI8R9RBtQ'
+API_TOKEN = 'API_TOKEN'
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
