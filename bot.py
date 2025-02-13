@@ -8,7 +8,7 @@ from aiogram.utils import executor
 
 # Настройки
 API_TOKEN = ''
-STEAM_API_KEY = ''
+STEAM_API_KEY = 'ДИМЕ НЕ ЗАЧЕТ, ОН НЕЧЕГО НЕ ДЕЛАЛ!!!!!!!!!!!!!!!!!!!!!!!!!!!!'
 STEAM_URL = "https://api.steampowered.com/ISteamApps/GetAppList/v2"
 NEWS_URL = "https://api.steampowered.com/ISteamNews/GetNewsForApp/v2"
 
