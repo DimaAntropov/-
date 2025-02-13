@@ -43,7 +43,7 @@ cd your-repo
 Установите все необходимые пакеты:
 
 ```bash
-pip install -r r
+pip install -r requirements.txt
 ```
 
 ### requirements.txt🔹 3. Конфигурация
