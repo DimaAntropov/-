@@ -7,8 +7,8 @@ from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from aiogram.utils import executor
 
 # Настройки
-API_TOKEN = '7540008294:AAFCR77AHQDAwFwFM2VoV8vWU_HI8R9RBtQ'
-STEAM_API_KEY = '78A97ED62C016B43824A3F16C36B1D78'
+API_TOKEN = ''
+STEAM_API_KEY = ''
 STEAM_URL = "https://api.steampowered.com/ISteamApps/GetAppList/v2"
 NEWS_URL = "https://api.steampowered.com/ISteamNews/GetNewsForApp/v2"
 
