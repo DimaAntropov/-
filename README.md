@@ -1,4 +1,4 @@
-# Telegram Game News Bot  @Game593539_Bot\
+# Telegram Game News Bot  
 ### Telegram Bot [@Game593539_Bot](https://web.telegram.org/a/#7540008294)
 Этот бот предназначен для отслеживания обновлений популярных игр в Steam и уведомления пользователей о новых новостях.
 
